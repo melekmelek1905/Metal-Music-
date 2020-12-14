@@ -1,0 +1,36 @@
+*
+{ 
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif ;
+}
+.menu-bar
+{
+    background-color: linear-gradient(to right, rgb(11, 34, 51));
+}
+.navbar-nav
+{
+    text-align: right;
+}
+.menu-bar .navbar-toggler
+{
+    padding-right: 0;
+    outline: none;
+    border: none;
+}
+.banner
+{
+    height: 80vh;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(images/sasa.jpg);
+    background-size: cover;
+    background-position: center;
+    color:rgb(28, 2, 53);
+}
+.banner h1 
+{
+    padding-top: 172px;
+    font-size: 50px;
+    letter-spacing: 6px;
+    font-weight: 600;
+    text-shadow: 0 0 30px rgba(0,0,0,0.5));
+}
