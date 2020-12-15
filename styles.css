@@ -34,3 +34,19 @@
     font-weight: 600;
     text-shadow: 0 0 30px rgba(0,0,0,0.5));
 }
+
+.search-song
+{
+    padding: 30px 0;
+    margin: -50px 6% 50px;
+    background-image: linear-gradient(to right, rgba(2, 37, 28, 0.933));
+}
+.search-song .form-control 
+{
+    max-width: 250px;
+    display: inline-flex;
+    margin: 10px 5px0
+    border-radius:0;
+    box-shadow:none;
+    border: none;
+}
