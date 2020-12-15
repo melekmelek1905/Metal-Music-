@@ -59,3 +59,27 @@
  margin: 5px;
  padding: 5px 20px;   
 }
+
+
+/*--------------Top Songs----------*/
+
+#Songs
+
+{
+    padding-top: 50px;
+    padding-bottom: 100px;
+
+}
+#Songs
+{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+#Songs img 
+{
+    max-width: 100px;
+    margin: 10px 20px;
+}
+
+
